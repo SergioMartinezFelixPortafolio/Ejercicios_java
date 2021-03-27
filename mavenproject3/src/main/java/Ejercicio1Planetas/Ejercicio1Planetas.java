@@ -47,7 +47,7 @@ public class Ejercicio1Planetas {
         boolean second=((weight*2.5277)>((weight)+(weight*0.3784)));
         System.out.println("\nIs your weight on Jupiter greater than your weight on the Earth and Mars together? "+ second);
   
-        System.out.println("Thank you for using my first program. See you soon! ");
+        System.out.println("Thank you for using my first program. Have a nice day! ");
                 
         
     }
